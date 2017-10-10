@@ -27,7 +27,7 @@ SECRET_KEY = '5qgan$slwh@g8r6$4-65ev!2c-53y9+mh8(%590(9!dvai!yuq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.rebelbird.top']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '119.23.221.255']
 
 
 # Application definition
